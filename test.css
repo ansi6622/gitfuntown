@@ -1,0 +1,10 @@
+* {
+  border: 1px solid brown;
+}
+
+p {
+  background-color: pink;
+  font-family: impact;
+  font-size: 2em;
+  font-color: silver;
+}
