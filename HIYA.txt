@@ -23,13 +23,7 @@
   </head>
   <body>
 
-    <style>
-  .slider{
-    height: 600px;
-    width: 600px;
-    border: 1px solid blue;
-  }
-  .fa {
+    <
     font-size: 3em;
   }
     </style>
